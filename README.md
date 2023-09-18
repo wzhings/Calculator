@@ -29,4 +29,5 @@ If you find any issue just put it in the repository issue section, thank you.
 
 
 ### New Contributions by Comma
-here is some updates
+- Here is some updates
+- Start working on it by reading some tutorial of Swing
